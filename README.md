@@ -1,1 +1,1 @@
-# Classification_Breast_Tumors
+# CNN-based classification of breast tumors and muscle tissue
